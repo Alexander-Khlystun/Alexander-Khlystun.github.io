@@ -18,6 +18,11 @@ a {
     color: #fff;
 }
 
+.scroll-btn:hover {
+    color: aqua;
+    -webkit-box-shadow: #fff;
+}
+
 * {
     box-sizing: border-box;
 }
