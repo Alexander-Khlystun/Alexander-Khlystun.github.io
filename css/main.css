@@ -3,6 +3,7 @@ html, body {
     font-size: 16px;
     line-height: 1.5;
     min-width: 280px;
+    scroll-behavior: smooth;
 }
 
 img {
@@ -11,6 +12,10 @@ img {
 
 a {
     transition: 0.2s ease-out;
+}
+
+.scroll-btn {
+    color: #fff;
 }
 
 * {
@@ -27,6 +32,13 @@ a {
     clear: both;
     content: "";
     display: table;
+}
+
+.row_footer {
+    clear: both;
+    content: "";
+    display: table;
+    margin-top: 0px;
 }
 
 .col-4 {
@@ -145,11 +157,13 @@ a {
 p.footer__name {
     font-size: 28px;
     margin-bottom: 10px;
+    margin-top: 0px;
     line-height: normal;
     font-family: 'Marriweather', serif;
 }
 
 p.footer__social {
+    margin-top: -1px;
     color: #FFF;
 }
 
@@ -192,6 +206,7 @@ p.footer__social-icons a:hover {
     padding-right: 23px;
     
     margin-bottom: 13px;
+    margin-top: 6px;
 }
 
 .button:hover {
