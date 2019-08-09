@@ -297,9 +297,7 @@ p.footer__social-icons a:hover {
         padding-bottom: 60px;
     }
 
-}
-
-/*copyright*/
+    /*copyright*/
 
 .copyright {
     padding: 20px 0;
@@ -316,3 +314,6 @@ p.footer__social-icons a:hover {
 .copyright__text span {
     color: #fff;
 }
+}
+
+
