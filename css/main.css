@@ -185,6 +185,22 @@ p.footer__social-icons a:hover {
     color: #FFE400;
 }
 
+.copyright {
+        padding: 20px 0;
+        background-color: #06112a;
+    }
+
+    .copyright__text {
+        text-align: center;
+        font-size: 14px;
+        line-height: 1.5;
+        color: #808080;
+    }
+
+    .copyright__text span {
+        color: #fff;
+    }
+
 .button {
     font-weight: 700;
     text-decoration: none;
@@ -297,21 +313,7 @@ p.footer__social-icons a:hover {
         padding-bottom: 60px;
     }
 
-    .copyright {
-        padding: 20px 0;
-        background-color: #313454;
-    }
 
-    .copyright__text {
-        text-align: center;
-        font-size: 14px;
-        line-height: 1.5;
-        color: #808080;
-    }
-
-    .copyright__text span {
-        color: #fff;
-    }
 }
 
 
