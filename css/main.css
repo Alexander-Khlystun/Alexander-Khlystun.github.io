@@ -315,6 +315,8 @@ body {
     text-align: center;
     width: 100%;
     display: table;
+
+    background: rgba(0,0,0,.3);
 }
 
 .wrap-block {
