@@ -302,6 +302,8 @@ p.footer__social-icons a:hover {
     }
 
 
+
+
 }
 
 /* video */
@@ -337,6 +339,8 @@ body {
     line-height: 72px;
     color: #e88438
 }
+
+/* Scills */
 
 .skills {
     position: relative;
@@ -487,4 +491,10 @@ svg circle:nth-child(2)
 {
     stroke-dashoffset: calc(440 - (440 * 25) / 100);
     stroke: #ff04f7;
+}
+
+.card:nth-child(4) svg circle:nth-child(2)
+{
+    stroke-dashoffset: calc(440 - (440 * 10) / 100);
+    stroke: #16a068;
 }
