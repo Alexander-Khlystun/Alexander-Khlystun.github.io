@@ -135,7 +135,7 @@ a {
 
 
 .footer {
-    background-color: #061634;
+    background-color: #17202A;
     color: #6479a2;
     padding-top: 90px;
     padding-bottom: 90px;
@@ -170,12 +170,12 @@ p.footer__social-icons a:last-child {
 }
 
 p.footer__social-icons a:hover {
-    color: #FFE400;
+    color: #ffd288;
 }
 
 .copyright {
         padding: 20px 0;
-        background-color: #06112a;
+        background-color: #1B2631;
     }
 
     .copyright__text {
